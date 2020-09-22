@@ -1,0 +1,11 @@
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker/obj/Debug/netcoreapp2.2/TriangleTracker.csprojAssemblyReference.cache
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker/obj/Debug/netcoreapp2.2/TriangleTracker.csproj.CoreCompileInputs.cache
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker/obj/Debug/netcoreapp2.2/TriangleTracker.AssemblyInfoInputs.cache
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker/obj/Debug/netcoreapp2.2/TriangleTracker.AssemblyInfo.cs
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker/bin/Debug/netcoreapp2.2/TriangleTracker.deps.json
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker/bin/Debug/netcoreapp2.2/TriangleTracker.dll
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker/bin/Debug/netcoreapp2.2/TriangleTracker.pdb
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker/obj/Debug/netcoreapp2.2/TriangleTracker.dll
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker/obj/Debug/netcoreapp2.2/TriangleTracker.pdb
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker/bin/Debug/netcoreapp2.2/TriangleTracker.runtimeconfig.json
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker/bin/Debug/netcoreapp2.2/TriangleTracker.runtimeconfig.dev.json

@@ -1,0 +1,17 @@
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TriangleTracker.Tests.csprojAssemblyReference.cache
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TriangleTracker.Tests.csproj.CoreCompileInputs.cache
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TriangleTracker.Tests.AssemblyInfoInputs.cache
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TriangleTracker.Tests.AssemblyInfo.cs
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TriangleTracker.Tests.deps.json
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TriangleTracker.Tests.runtimeconfig.json
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TriangleTracker.Tests.runtimeconfig.dev.json
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TriangleTracker.Tests.dll
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TriangleTracker.Tests.pdb
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TriangleTracker.dll
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TriangleTracker.pdb
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TriangleTracker.Tests.csproj.CopyComplete
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TriangleTracker.Tests.dll
+/Users/chloehellberg/Desktop/triangle-tdd/TriangleTracker.Solution/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TriangleTracker.Tests.pdb
